@@ -1,3 +1,15 @@
+<h2> Hello, I'm Juliana<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+## About me
+
+- Front-end development using **HTML, Javascript, CSS, Bootstrap, Angular, REACT**
+- Backend development using **.NET, SpringBoot**
+- Mobile: using **Flutter**
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />

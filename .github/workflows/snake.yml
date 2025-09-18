@@ -2,13 +2,16 @@ name: Gerar Snake SVG
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # roda a cada 12h
-  workflow_dispatch: # permite rodar manualmente
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Criar pasta dist
+        run: mkdir -p dist
+
       - name: Gerar Snake SVG
         uses: Platane/snk/svg-only@v3
         with:

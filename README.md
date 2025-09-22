@@ -1,6 +1,6 @@
 <h2> Hello, I'm Juliana<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="center" src="dist/mvt3.gif" width="100">
+<img align="center" src="dist/mvt3.gif" width="200">
 
 ## About me
 
